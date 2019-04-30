@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/consumer/gitRepo/git@github.com-huaweicse-cse-codegen-schemas.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/consumer/gitRepo/git@github.com-linjiongcheng-yaml.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/provider/gitRepo/git@github.com-huaweicse-cse-codegen-schemas.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/provider/gitRepo/git@github.com-linjiongcheng-yaml.git" vcs="Git" />
+  </component>
+</project>
