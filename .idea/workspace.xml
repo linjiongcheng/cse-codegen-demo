@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b87adcb7-2835-49c2-84d3-eea40f6f07fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/huawei/paas/consumer/ConsumerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/huawei/paas/consumer/delegate/MyserviceDelegate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/huawei/paas/consumer/impl/MyserviceDelegateImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/service/forecast/entity/objective1/DateListItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/service/forecast/entity/objective2/ForecastSummary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/service/forecast/entity/util/MultiResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/resources/META-INF.spring/cse.consumer.bean.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/resources/microservice.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/resources/microservices/myprovider/myservice.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/META-INF.spring/cse.consumer.bean.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/huawei/paas/consumer/ConsumerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/huawei/paas/consumer/delegate/MyserviceDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/huawei/paas/consumer/impl/MyserviceDelegateImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/service/forecast/entity/objective1/DateListItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/service/forecast/entity/objective2/ForecastSummary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/service/forecast/entity/util/MultiResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/microservice.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/target/classes/microservices/myprovider/myservice.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/huawei/paas/provider/ProviderApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/huawei/paas/provider/controller/MyserviceController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/huawei/paas/provider/delegate/MyserviceDelegate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/huawei/paas/provider/impl/MyserviceDelegateImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/service/forecast/entity/objective1/DateListItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/service/forecast/entity/objective2/ForecastSummary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/service/forecast/entity/util/MultiResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/META-INF.spring/cse.consumer.bean.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/microservice.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/microservices/myprovider/myservice.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/META-INF.spring/cse.consumer.bean.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/huawei/paas/provider/ProviderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/huawei/paas/provider/controller/MyserviceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/huawei/paas/provider/delegate/MyserviceDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/huawei/paas/provider/impl/MyserviceDelegateImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/service/forecast/entity/objective1/DateListItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/service/forecast/entity/objective2/ForecastSummary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/service/forecast/entity/util/MultiResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/microservice.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/target/classes/microservices/myprovider/myservice.yaml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/consumer/target/" />
@@ -62,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="162">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -76,14 +33,32 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/huawei/paas/provider/ProviderApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="216">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huawei/paas/provider/delegate/MyserviceDelegate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huawei/paas/provider/controller/MyserviceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-46">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -123,31 +98,16 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cse-codegen-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cse-codegen-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="huawei-swagger-codegen" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="cse-codegen-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
           <item name="huawei-swagger-codegen" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
@@ -205,6 +165,44 @@
               <item name="cse-codegen-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cse-codegen-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse-codegen-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cse-codegen-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse-codegen-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="delegate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cse-codegen-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse-codegen-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cse-codegen-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cse-codegen-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -246,8 +244,10 @@
       </method>
     </configuration>
     <configuration name="ProviderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.huawei.paas.provider.ProviderApplication" />
-      <module name="provider" />
+      <module name="cse-codegen-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.huawei.paas.provider.*" />
@@ -400,23 +400,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/microservice.yaml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huawei/paas/provider/delegate/MyserviceDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huawei/paas/provider/controller/MyserviceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huawei/paas/provider/ProviderApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="216">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
     </entry>
